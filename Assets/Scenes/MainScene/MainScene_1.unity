@@ -1209,6 +1209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e067a376843544548bd32c1c0468da01, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nextSceneName: TitleScene 1
 --- !u!50 &1204002224
 Rigidbody2D:
   serializedVersion: 5
@@ -2215,7 +2216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTags:
   - NomalEnemy
-  nextSceneName: TitleScene 1
+  nextSceneName: GameOver
 --- !u!1 &1933059897
 GameObject:
   m_ObjectHideFlags: 0
